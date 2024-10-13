@@ -85,7 +85,7 @@
 
 <li>
     <a href="https://www.linkedin.com/in/mat%C3%ADas-pacini-61aba1244/" target="_blank">
-        LinkedIn
+        <img src="[https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Gmail">
     </a>
 </li>
 
@@ -96,7 +96,7 @@
 
 <li>
 <a href="matiaspacini052@gmail.com" target="_blank">
-	Gmail
+        <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </li>
 	
