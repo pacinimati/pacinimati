@@ -11,7 +11,7 @@
 	
 ## <picture>
    <img src="https://img.shields.io/badge/About%20Me-%230A66C2.svg?style=for-the-badge&logo=info&logoColor=white" alt="About Me">
-</picture> About me
+</picture> 
 
 
 <br>
