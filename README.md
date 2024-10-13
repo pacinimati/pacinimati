@@ -84,8 +84,9 @@
 <ul>
 
 <li>
-<a href="(https://www.linkedin.com/in/mat%C3%ADas-pacini-61aba1244/)" target="_blank">
-</a>
+    <a href="https://www.linkedin.com/in/mat%C3%ADas-pacini-61aba1244/" target="_blank">
+        LinkedIn
+    </a>
 </li>
 
 <br>
@@ -95,6 +96,7 @@
 
 <li>
 <a href="matiaspacini052@gmail.com" target="_blank">
+	Gmail
 </a>
 </li>
 	
